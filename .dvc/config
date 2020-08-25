@@ -1,0 +1,4 @@
+[core]
+    remote = myloc
+['remote "myloc"']
+    url = ../../dvc_storage
